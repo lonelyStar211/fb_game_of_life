@@ -2,3 +2,5 @@
 conways game of life in freebasic
 
 in memory of JOHN HORTON CONWAY 1937 - 2020
+
+our forum: https://retrocoders.freeforums.net/
